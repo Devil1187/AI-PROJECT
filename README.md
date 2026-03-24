@@ -152,4 +152,4 @@ streamlit run app.py
 
 ## 🏫 Institute
 
-*Bansal Institute of Research Technology and Science, Bhopal*
+*Collage of Management, Khamgaon-444303*

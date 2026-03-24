@@ -1,0 +1,23 @@
+# Backend libraries
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+# Chatbot / AI
+langchain # langchain==0.0.350
+langchain-community
+python-dotenv
+transformers
+
+# HuggingFace integration (correct package name)
+langchain-huggingface
+
+# PyTorch (CUDA 12.1)
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch>=2.2.0
+
+# Frontend
+streamlit
+streamlit-option-menu

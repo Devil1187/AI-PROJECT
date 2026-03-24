@@ -71,8 +71,8 @@ Disease/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Raunak-Kesharwani/Disease_Diagnosis-with-AI.git
-cd Disease
+git clone https://github.com/Devil1187/AI-PROJECT.git
+cd Disease_Diagnosis-with-AI
 ```
 
 ### 2. Create a Virtual Environment
@@ -141,14 +141,12 @@ streamlit run app.py
 
 ## 📍 Team - HealthTech Innovators
 
-| Name               | Role       | Branch | Year |
+ Name               | Role       | Branch | Year |
 |--------------------|------------|--------|------|
-| *Yash Kumar Rahadve* | Team Leader | CSE    | 2nd  |
-| *Raunak Kesharwani* | Member     | CSE    | 2nd  |
-| *Shruti Mehra*      | Member     | CSE    | 2nd  |
-| *Muskan Kawadkar*   | Member     | CSE    | 2nd  |
-| *Shiv Kumar Rai*    | Member     | CSE    | 2nd  |
-| *Ajay Wadekar*      | Mentor     | Expert in Image Processing | 12+ yrs |
+| *Hariom Lokhandkar* | Team Leader | BCA    | 3rd  |
+| *Kishor Kharat* | Member     | BCA  |3rd  |
+| *Ram Katole*      | Member     | BCA    | 3rd  |
+| *Dipak Bhage*      | Mentor     | Expert in Image Processing | 2+ yrs |
 
 ---
 
